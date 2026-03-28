@@ -112,3 +112,4 @@ Check out the full documentation [here](https://docs.luanroger.dev/electron-shad
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/LuanRoger/electron-shadcn/blob/main/LICENSE) file for details.
+# vocab-master
